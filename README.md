@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Web Development at Kodiri BootCamp.
+- 🎓 &nbsp; Studied Web Development at Kodiri BootCamp, Middlesex University and FreeCodeCamp.
 - 🌱 &nbsp; Learning more about Algorithims, Data Structures and Artificial Intelligence.
 
 <h3>🛠 Tech Stack</h3>
