@@ -13,7 +13,7 @@
 - 💻 &nbsp; Python | Java | JavaScript | TypeScript 
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Material UI | Node.js | ReactJS | Express.js | GraphQL | Redux | BootStrap | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🔧 &nbsp; Git 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
 <br/>
