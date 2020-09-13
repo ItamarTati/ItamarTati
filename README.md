@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2> Hey there! I'm Itamar Tati.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
