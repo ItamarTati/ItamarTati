@@ -9,7 +9,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | JavaScript | TypeScript 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Material UI | Node.js | ReactJS | Express.js | GraphQL | Redux | BootStrap | Node.js | ReactJS
+- 🌐 &nbsp; HTML5 | CSS3 | ES6 | Material UI | NodeJS | ReactJS | ExpressJS | GraphQL | Redux | BootStrap 
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
 - 🔧 &nbsp; Git 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
