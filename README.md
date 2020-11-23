@@ -12,7 +12,6 @@
 - 🌐 &nbsp; HTML5 | CSS3 | ES6 | Material UI | NodeJS | ReactJS | ExpressJS | GraphQL | Redux | BootStrap 
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
 - 🔧 &nbsp; Git 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
 <br/>
 
