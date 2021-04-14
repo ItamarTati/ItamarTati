@@ -4,12 +4,12 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Web Development at Kodiri BootCamp, Middlesex University and FreeCodeCamp.
-- 🌱 &nbsp; Learning more about Algorithims, Data Structures and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Artificial Intelligence, Algorithims and Data Structures.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | JavaScript | TypeScript 
-- 🌐 &nbsp; HTML5 | CSS3 | ES6 | Material UI | NodeJS | ReactJS | ExpressJS | GraphQL | Redux | BootStrap 
+- 🌐 &nbsp; HTML5 | CSS3 | ES6 | Material Design | NodeJS | ReactJS | Angular | SpringBoot | ExpressJS | GraphQL | Redux | BootStrap 
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
 - 🔧 &nbsp; Git 
 
