@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Web Development at Kodiri BootCamp, Middlesex University and FreeCodeCamp.
-- 🌱 &nbsp; Learning more about Artificial Intelligence, Algorithims and Data Structures.
+- 🌱 &nbsp; Learning more about Artificial Intelligence, Cyber Security, Algorithims and Data Structures.
 
 <h3>🛠 Tech Stack</h3>
 
