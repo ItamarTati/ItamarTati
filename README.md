@@ -15,7 +15,7 @@
 
 <br/>
 
-[![ItamarTati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItamarTati&show_icons=true))](https://github.com/ItamarTati)
+[![ItamarTati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItamarTati&show_icons=true)](https://github.com/ItamarTati)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
