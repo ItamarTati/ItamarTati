@@ -9,7 +9,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | JavaScript | TypeScript 
-- 🌐 &nbsp; HTML5 | CSS3 | SCSS | ES6 | Material Design | BootStrap | NodeJS | ReactJS | Angular | SpringBoot | ExpressJS | GraphQL | RxJS | Redux | NgRx 
+- 🌐 &nbsp; HTML5 | CSS3 | SCSS | ES6 | Material Design | BootStrap | NodeJS | VueJS| ReactJS | Angular | SpringBoot | ExpressJS | GraphQL | RxJS | Redux | NgRx 
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
 - 🔧 &nbsp; Git 
 
