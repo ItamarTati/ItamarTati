@@ -20,7 +20,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://itamartati.github.io/itamar-portfolio-page/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ItamarTati.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:itamar.softwaredeveloper@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-itamar.softwaredeveloper@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
