@@ -3,13 +3,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Learning more about Artificial Intelligence, Cyber Security, Algorithims and Data Structures.
+- 🌱 &nbsp; Learning more about Artificial Intelligence, Cyber Security and Health.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | JavaScript | TypeScript 
-- 🌐 &nbsp; HTML5 | CSS3 | SCSS | ES6 | Material Design | BootStrap | NodeJS | VueJS | ReactJS | Angular | SpringBoot | ExpressJS | GraphQL | RxJS | Redux | NgRx 
-- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
+- 🌐 &nbsp; HTML5 | CSS3 | SCSS | ES6 | Material Design | Angular | SpringBoot | RxJS | Redux | NgRx 
+- 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git 
 
 <br/>
