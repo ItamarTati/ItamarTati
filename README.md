@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Learning more about Artificial Intelligence, Cyber Security and Health.
+- 🌱 &nbsp; Learning more about Artificial Intelligence
 
 <h3>🛠 Tech Stack</h3>
 
