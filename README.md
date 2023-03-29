@@ -28,8 +28,5 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItamarTati&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
   
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ItamarTati&theme=discord&no-frame=true&no-bg=false&margin-w=)
 
 ⭐️ From [ItamarTati](https://github.com/ItamarTati)
