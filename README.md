@@ -22,11 +22,6 @@
 <p align="center">
 <a href="mailto:itamar.softwaredeveloper@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-itamar.softwaredeveloper@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-
-## <h3 align="left">GitHub Stats</h3>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItamarTati&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
   
 
 ⭐️ From [ItamarTati](https://github.com/ItamarTati)
