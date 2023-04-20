@@ -17,7 +17,6 @@
 
 <br/>
 
-<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 <a href="mailto:itamar.softwaredeveloper@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-itamar.softwaredeveloper@gmail.com-blue?style=flat-square&logo=gmail"></a>
