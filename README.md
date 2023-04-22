@@ -3,11 +3,6 @@
 
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Constantly Learning
-
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | JavaScript | TypeScript 
