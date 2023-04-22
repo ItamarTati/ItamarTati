@@ -6,7 +6,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | JavaScript | TypeScript 
-- 🌐 &nbsp; HTML5 | CSS3 | SCSS | ES6 | Material Design | Angular | SpringBoot | RxJS | Redux | NgRx 
+- 🌐 &nbsp; HTML5 | CSS3 | SCSS | ES6 | Material Design | Angular | SpringBoot | RxJS | Redux | NgRx | Node | Express 
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git 
 
