@@ -17,5 +17,3 @@
 <a href="mailto:itamar.softwaredeveloper@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-itamar.softwaredeveloper@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
   
-
-⭐️ From [ItamarTati](https://github.com/ItamarTati)
