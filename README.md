@@ -5,9 +5,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | JavaScript | TypeScript | Python
-- 🌐 &nbsp; HTML5 | CSS3 | SCSS | ES6 | Material Design | Angular | SpringBoot | RxJS | Redux | NgRx | Node | Express | AWS
-- 🛢 &nbsp; MySQL
+- 💻 &nbsp; Java | JavaScript | TypeScript | Python | PHP
+- 🌐 &nbsp; HTML5 | CSS3 | SCSS | ES6 | Material Design | Angular | React | Wordpress | SpringBoot | RxJS | Redux | NgRx | Node | Express | AWS
+- 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Git 
 
 <br/>
