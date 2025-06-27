@@ -3,7 +3,7 @@
 ## 💻 Software Engineer | Backend & DevOps | ex Top 500 Gamer
 
 🚀 I'm a backend-focused software engineer passionate about building scalable systems, APIs, and infrastructure that power real-world applications.  
-🎮 Fun fact: I play a lot of video games and was ranked in the **Top 500** Overwatch (Highest Rank Possible).
+🎮 Fun fact: I play a lot of video games and was ranked in the **Top 500** Overwatch players (Highest Rank Possible).
 
 ---
 
