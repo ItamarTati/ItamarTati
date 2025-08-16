@@ -1,24 +1,24 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Itamar Tati
 
-## 💻 Software Engineer | Backend & DevOps | ex Top 500 Gamer
+## 💻 Backend Software Engineer | DevOps
 
-🚀 I'm a backend-focused software engineer passionate about building scalable systems, APIs, and infrastructure that power real-world applications.  
-🎮 Fun fact: I play a lot of video games and was ranked in the **Top 500** Overwatch players (Highest Rank Possible).
+🚀 I'm a backend-focused software engineer passionate about building **scalable systems, APIs, and infrastructure** that power real-world applications.  
+🔧 While I can work across the stack when needed, my main strength lies in **backend development and DevOps automation**.  
 
 ---
 
 ### 🛠 Tech Stack
 
 **Languages**  
-- JavaScript (ES6+) | TypeScript | PHP | Java | C | C++ | C# | Python  
+- Java | Scala | JavaScript (ES6+) | TypeScript | PHP | Python | C# | C | C++  
 
 **Backend & DevOps**  
-- Node.js | Express.js | Laravel | Spring Boot | Kafka  
+- Node.js | Express.js | Spring Boot | Laravel | Kafka  
 - Docker | AWS | GitHub Actions | CI/CD  
-- MySQL | PostgreSQL | SQL
+- PostgreSQL | MySQL | SQL | MongoDB  
 
 **Frontend (when needed)**  
-- HTML5 | CSS3 | SCSS | Angular | React | RxJS | NgRx | Redux | Material Design  
+- Angular | React | HTML5 | CSS3 | SCSS | RxJS | NgRx | Redux | Material Design  
 - WordPress (Custom themes & plugins)
 
 ---
@@ -29,6 +29,10 @@
   <a href="mailto:itamar.softwaredeveloper@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-itamar.softwaredeveloper@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
+  <a href="https://www.linkedin.com/in/itamar-tati-51b781243/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Itamar%20Tati-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://itamartati.com">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-itamartati.com-green?style=flat-square&logo=google-chrome">
+  </a>
 </p>
-
----
